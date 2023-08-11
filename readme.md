@@ -16,7 +16,7 @@ This is the introduce of the game screen, not rule.
 
 * 左上，右上分别是敌人信息和卡堆信息。
 * 左下是手牌，一个按钮对应一张牌。按下按钮即选择该牌，再次按下取消选择。
-* 右下是操作区，所有被选择了的牌会显示在区域上方，当选择的牌满足要求是下方按钮会就会变得可以点击。
+* 右下是操作区，所有被选择了的牌会显示在区域上方，当选择的牌满足要求时下方按钮会就会变得可以点击。
 
 ## Rule
 
@@ -40,4 +40,4 @@ The game is too easy, thus I removed the Joker. Just restart if you don't get Cl
 
 Add final boss with 60 hp and 40 atk, the color of finall boss will rotate at the end of the turn.
 
-在所有Boss被击败后增加一个60hp, 40atk的final boss。它会在回合结束后轮换花色。
+在所有Boss被击败后增加一个60hp, 40atk的final boss。
